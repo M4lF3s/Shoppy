@@ -43,6 +43,8 @@ Wir kalkuieren für unser Projekt einen Entwicklungszeitraum von 2 Monaten. Inne
 - 
 ## Design Methoden
 
+### Brainstorming Project Idea
+
 ![Concept Map](Assignment_1.png)
 
 ## Prototypen
