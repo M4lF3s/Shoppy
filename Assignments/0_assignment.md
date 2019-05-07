@@ -45,9 +45,16 @@ Wir kalkuieren für unser Projekt einen Entwicklungszeitraum von 2 Monaten. Inne
 
 ![Concept Map](Assignment_1.png)
 
-## Typen von Prototypen
+## Prototypen
+
+### Rapid Control Prototyping
+Wir wählen Rapid Control Prototyping Methode um einen engen Feedbackloop mit den Konsumenten zu halten und innerhalb des kurzen Zeitrahmens agil und effizent auf Kursänderungen reagieren zu könnnen. Auch ist die Integration des Feedbacks der Kunden für jede neue Phase des Prototypen für uns wichtig.  Durch mehrere Varianten unserer Benutzeroberfläche erhoffen wir uns das beste Ergebnis für den Konsumenten.
 
 ## Evaluationsmethoden
 
-Mit den Start des Projekts: Idee Evaluation mit potentiellen Kunden
+Innerhalb der Monate/Phase werden wir unser Produkt mit mehrer potentiellen Konsumenten validieren und evaluieren. Dazu benutzen wir:
+
+- Interviews / Befragungen um mehr über die Bedürfnisse zu erfahren
+- Befragungen bezüglich der technischen Fähigkeiten und Integration in den Tagesablauf
+- Qualitätssichernde Tests
 
