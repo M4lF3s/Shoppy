@@ -39,9 +39,9 @@ profiles ("personas").
 
 ### Teilnehmer Identifizieren: z.B. Junge Leute -> Untergruppe Studenten
 
-###Beziehung aufbauen: Vertrauensbasis schaffen, Consent Form für die Anonymisierung und Datensammlung
+### Beziehung aufbauen: Vertrauensbasis schaffen, Consent Form für die Anonymisierung und Datensammlung
 
-###Triangulation: z.B. Wichtig Techniken kombinieren. Wie die Leute etwas machen -> Beobachten, Warum die Leute etwas machen -> Interview
+### Triangulation: z.B. Wichtig Techniken kombinieren. Wie die Leute etwas machen -> Beobachten, Warum die Leute etwas machen -> Interview
 
 ### Pilotstudien: Meistens andere Ergebnisse als ursprüngliche erwartet!
 
@@ -75,7 +75,7 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
 - **Charakteristische Eigenschaften**
   - weiblich
   - 22 Jahre
-  - Student Gesundheitsökonomie
+  - Studentin Gesundheitsökonomie
   - kein Auto, kein Fahrrad
 - **Erfahrung**
   - Mobile Endgeräte Erfahren, PC Wenig Erfahrung/überfordert
@@ -88,6 +88,38 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
   - Kein Discounter in der Nähe
   - Engagiert sich beim nachhaltigen Einkauf würde das gerne noch besser betreiben
 
-## Persona 3: Pascal
+## Persona 3:
+
+- **Name**: Pascal
+- **Charekteristische Eigenschaften**
+    - männlich
+    - 26 Jahre
+    - Student Mathe / Physik
+    - kein Auto, kein Fahrrad
+- **Erfahrung**
+    - Nutzt regelmäßig öffentliche Verkehrsmittel
+    - Erfahrung im Party planen (soziale Netzwerke)
+    - Car-Sharing Erfahrung
+- **Hintergrund**
+    - Wocheneinkauf (1-2 mal / Woche)
+    - Nutzt öffentliche Verkehrsmittel zum Einkaufen
+    - Party-Einkäufe / Getränke mithilfe von Car-Sharing
+    - Transportiert Einkauf mit Rucksack / Einkaufstaschen
+    - Achtet mäßig auf Nachhaltigkeit / Regionalität bei den Produkten
+    - Hauptsächlich Einkauf in Discountern
+    - Achtet vermehrt auf Preis (günstiger = besser)
+
 
 ## Persona 4: Johannes
+
+- **Name**: Johannes
+- **Charaktersitische Eigenschaften**
+    - männlich
+    - 20
+    - Erstsemester
+    - Wohnt in Wohngemeinschaft
+- **Erfahrung**
+    - Kaum Erfahrung mit öffentlichen Verkehrsmittel
+    - Wohnt in unmittelbarer Nähe zu diversen Discountern
+    - Überwiegend gemeinschaftlicher WG-Einkauf
+    - Insgesamt eher wenig Erfahrung im Einkaufen
