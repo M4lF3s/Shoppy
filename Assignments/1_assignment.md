@@ -27,3 +27,34 @@ would be willing to pay for such an application.
 
 # Persona creation
 
+Afterwards you need to organise and summarize the collected data, 
+extract the key points and create user profiles ("personas"). The 
+submission should include the documentation on your preparation for the 
+data collection, the data of individual users and the generic user 
+profiles ("personas"). 
+
+## Datensammlung
+
+### Klare Ziele: zb Nutzerverhalten verbessern
+
+### Teilnehmer Identifizieren: z.B. Junge Leute -> Untergruppe Studenten
+
+###Beziehung aufbauen: Vertrauensbasis schaffen, Consent Form für die Anonymisierung und Datensammlung
+
+###Triangulation: z.B. Wichtig Techniken kombinieren. Wie die Leute etwas machen -> Beobachten, Warum die Leute etwas machen -> Interview
+
+### Pilotstudien: Meistens andere Ergebnisse als ursprüngliche erwartet!
+
+Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und Gewohnheiten. Dann haben wir Optimierungen an ihren Einkaufsplänen, also den Route vorgenommen. Und das Ergebnis mit Ihnen evaluiert. Auch die Bedenkpunkte besprochen. Fahrkarten und Rabatte waren wie gedacht Teil der Überlegungen der Testgruppe
+
+-------------------------------------
+
+## Persona 1: Nicolas
+
+
+
+## Persona 2: Clara
+
+## Persona 3: Pascal
+
+## Persona 4: Johannes
