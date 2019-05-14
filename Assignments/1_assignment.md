@@ -69,7 +69,24 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
   * Kein Discounter in der Nähe
   * Würde gerne nachhaltig einkaufen (Glasflaschen) aber nicht machbar weil schwer
 
-## Persona 2: Clara
+## Persona 2:
+
+- **Name**: Clara
+- **Charakteristische Eigenschaften**
+  - weiblich
+  - 22 Jahre
+  - Student Gesundheitsökonomie
+  - kein Auto, kein Fahrrad
+- **Erfahrung**
+  - Mobile Endgeräte Erfahren, PC Wenig Erfahrung/überfordert
+  - Würde gerne planen, ist ihr aber nicht so wichtig
+  - fährt gerne Bus und läuft zu Fuß
+- **Hintergrund**
+  -  Geht 3-4x Einkaufen die Woche, sehr kleine Mengen weil zu Fuß
+  - Sehr nahe gelegene Supermärkte weil sie nicht weit viel tragen kann
+  - Würde gerne sparen, will aber nicht weit zum Discounter fahren.
+  - Kein Discounter in der Nähe
+  - Engagiert sich beim nachhaltigen Einkauf würde das gerne noch besser betreiben
 
 ## Persona 3: Pascal
 
