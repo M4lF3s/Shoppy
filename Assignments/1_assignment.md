@@ -128,10 +128,17 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
 - **Charaktersitische Eigenschaften**
     - männlich
     - 20
-    - Erstsemester
+    - Erstsemester Informatik
     - Wohnt in Wohngemeinschaft
+    - Besitzt Auto
 - **Erfahrung**
     - Kaum Erfahrung mit öffentlichen Verkehrsmittel
-    - Wohnt in unmittelbarer Nähe zu diversen Discountern
-    - Überwiegend gemeinschaftlicher WG-Einkauf
     - Insgesamt eher wenig Erfahrung im Einkaufen
+    - Grundkenntnisse in App-Programmierung
+    - Tieferes Verständnis für Software-Systeme
+- **Hintergrund**
+    - Überwiegend gemeinschaftlicher WG-Einkauf
+    - Einkauf fest geplant (wöchentlich)
+    - Wohnt in unmittelbarer Nähe zu diversen Discountern
+    - Regelmäßig größere Mengen
+    - Getränke werden im entfernteren Getränkefachmarkt gekauft (Auto)
