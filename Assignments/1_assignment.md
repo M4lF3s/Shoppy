@@ -74,7 +74,7 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
 - **Name**: Clara
 - **Charakteristische Eigenschaften**
   - weiblich
-  - 22 Jahre
+  - 21 Jahre
   - Student Gesundheitsökonomie
   - kein Auto, kein Fahrrad
 - **Erfahrung**
@@ -89,5 +89,7 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
   - Engagiert sich beim nachhaltigen Einkauf würde das gerne noch besser betreiben
 
 ## Persona 3: Pascal
+
+
 
 ## Persona 4: Johannes
