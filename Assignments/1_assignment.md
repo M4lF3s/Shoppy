@@ -86,13 +86,8 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
 - **Name**: Clara
 - **Charakteristische Eigenschaften**
   - weiblich
-<<<<<<< HEAD
   - 22 Jahre
   - Studentin Gesundheitsökonomie
-=======
-  - 21 Jahre
-  - Student Gesundheitsökonomie
->>>>>>> c1f1b4364ed798e259653aaa3a0bd4eabe21c33c
   - kein Auto, kein Fahrrad
 - **Erfahrung**
   - Mobile Endgeräte Erfahren, PC Wenig Erfahrung/überfordert
@@ -107,7 +102,6 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
 
 ## Persona 3:
 
-<<<<<<< HEAD
 - **Name**: Pascal
 - **Charekteristische Eigenschaften**
     - männlich
@@ -128,7 +122,7 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
     - Achtet vermehrt auf Preis (günstiger = besser)
 
 
-## Persona 4: Johannes
+## Persona 4
 
 - **Name**: Johannes
 - **Charaktersitische Eigenschaften**
@@ -141,8 +135,3 @@ Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und 
     - Wohnt in unmittelbarer Nähe zu diversen Discountern
     - Überwiegend gemeinschaftlicher WG-Einkauf
     - Insgesamt eher wenig Erfahrung im Einkaufen
-=======
-
-
-## Persona 4: Johannes
->>>>>>> c1f1b4364ed798e259653aaa3a0bd4eabe21c33c
