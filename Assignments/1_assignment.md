@@ -15,6 +15,9 @@ aspects important for your application, and if the users agree, you can
 also record videos of them performing their task, which you can analyze 
 later. 
 
+----
+Um die Nutzer zu beobachten stellten wir Ihnen die Aufgabe einmal ihren täglichen Einkauf zu planen. Wir haben dann darauf geachtet wie Sie ihren Einkauf vornehmen, worauf sie bei der Supermarktauswahl achten, ihren Transportweg wählen und welche Geräte sie zur Planung nutzen. 
+
 ## Interviews
 
 Additionally, afterwards you can perform a short interview with each 
@@ -24,6 +27,15 @@ solution and collect the requirements for your application. In the
 interview you can also shortly describe the application you plan to 
 develop and ask users for their suggestions for it, and whether they 
 would be willing to pay for such an application.
+
+----
+In den Interviews haben wir den Nutzer dann Fragen zu ihrem:
+* Einkaufsverhalten
+* ihre Nutzung von digitalen Medien
+* ihren Problemen/Hindernissen
+* Was sie gerne geändert haben würden
+* Nachhaltigkeitskonzepten
+* Wahrnehmung von Rabattaktionen / Promotionen
 
 # Persona creation
 
