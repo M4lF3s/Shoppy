@@ -45,13 +45,29 @@ profiles ("personas").
 
 ### Pilotstudien: Meistens andere Ergebnisse als ursprüngliche erwartet!
 
-Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und Gewohnheiten. Dann haben wir Optimierungen an ihren Einkaufsplänen, also den Route vorgenommen. Und das Ergebnis mit Ihnen evaluiert. Auch die Bedenkpunkte besprochen. Fahrkarten und Rabatte waren wie gedacht Teil der Überlegungen der Testgruppe
+Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und Gewohnheiten. Dann haben wir Optimierungen an ihren Einkaufsplänen, also den Route händisch selbst vorgenommen. Und das Ergebnis mit Ihnen evaluiert. Auch die Bedenkpunkte besprochen. Fahrkarten und Rabatte waren wie gedacht Teil der Überlegungen der Testgruppe
 
 -------------------------------------
 
-## Persona 1: Nicolas
+## Persona 1:
 
-
+* **Name**: Nicolas
+* **Charakteristische Eigenschaften**
+  * männlich
+  * 24 Jahre
+  * Student
+  * kein Auto aber Fahrrad
+* **Erfahrung**
+  * Technikaffin, konsumiert digitale Medien auf allen Endgeräten
+  * Nutz digitale Einkaufsdiente / digitaler Notizzettel
+  * primäre Fortbewegung Fahrrad
+  * wenig Erfahrungen mit öffentlichen Transportmitteln
+* **Hintergrund**
+  *  Geht 2-3x Einkaufen die Woche, kleine Menge weil Fahrrad
+  * Nahe Supermärkte weil er nicht weit viel tragen will
+  * Würde gerne sparen, will aber nicht weit zum Discounter fahren
+  * Kein Discounter in der Nähe
+  * Würde gerne nachhaltig einkaufen (Glasflaschen) aber nicht machbar weil schwer
 
 ## Persona 2: Clara
 
