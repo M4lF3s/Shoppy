@@ -57,7 +57,7 @@ profiles ("personas").
 
 ### Pilotstudien: Meistens andere Ergebnisse als ursprüngliche erwartet!
 
-Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und Gewohnheiten. Dann haben wir Optimierungen an ihren Einkaufsplänen, also den Route händisch selbst vorgenommen. Und das Ergebnis mit Ihnen evaluiert. Auch die Bedenkpunkte besprochen. Fahrkarten und Rabatte waren wie gedacht Teil der Überlegungen der Testgruppe
+Die Testgruppe ihren Einkauf selber planen lassen, nach ihren Bedürfnissen und Gewohnheiten. Dann haben wir Optimierungen an ihren Einkaufsplänen, also den Route händisch selbst vorgenommen. Und das Ergebnis mit Ihnen evaluiert. Auch die Bedenkpunkte besprochen. Fahrkarten und Rabatte waren wie gedacht Teil der Überlegungen der Testgruppe. Ausgehend von diesen Keywords haben wir dann eine Mindmap erstellt.
 
 -------------------------------------
 
