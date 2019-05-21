@@ -125,13 +125,6 @@ export default class App extends Component {
         `}
         </style>
 
-        <Container text style={{ marginTop: '2em' }}>
-          <Header as='h1'>Sticky Example</Header>
-          <p>
-            This example shows how to use lazy loaded images, a sticky menu, and a simple text
-            container
-          </p>
-        </Container>
 
         {/* Attaching the top menu is a simple operation, we only switch `fixed` prop and add another style if it has
             gone beyond the scope of visibility
@@ -150,10 +143,7 @@ export default class App extends Component {
               <Menu.Item>
                 <Image size='mini' src='/logo.png' />
               </Menu.Item>
-              <Menu.Item header>Project Name</Menu.Item>
-              <Menu.Item as='a'>Blog</Menu.Item>
-              <Menu.Item as='a'>Articles</Menu.Item>
-
+              <Menu.Item header>Shoppy</Menu.Item>
               <Menu.Menu position='right'>
                 <Dropdown text='Dropdown' pointing className='link item'>
                   <Dropdown.Menu>
