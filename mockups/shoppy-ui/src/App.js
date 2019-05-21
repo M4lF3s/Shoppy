@@ -14,6 +14,7 @@ import {
   Visibility,
 } from 'semantic-ui-react'
 import 'semantic-ui-css/semantic.min.css'
+import logo from './Logo.png'
 
 
 const menuStyle = {
@@ -141,7 +142,7 @@ export default class App extends Component {
           >
             <Container text>
               <Menu.Item>
-                <Image size='mini' src='/logo.png' />
+                <Image size='mini' src={logo} />
               </Menu.Item>
               <Menu.Item header>Shoppy</Menu.Item>
               <Menu.Menu position='right'>
