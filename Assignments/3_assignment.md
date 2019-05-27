@@ -46,19 +46,29 @@ Karte: Der nutzer erkennt sofort, dass seine Position auf der Karte zu sehen ist
 
 Fragen zur App selbst:
 
-    Würdest du einen eigenen Account für die App erstellen?
-    Ich würde die Anwendung zum Testen gerne ohne Loginzwang benutzen, vor allem wenn ich diese noch nicht kenne oder nicht empfohlen bekomme!
+Würdest du einen eigenen Account für die App erstellen?
 
-    Wie sehr nutzt du social Logins?
+    Ich würde die Anwendung zum Testen gerne ohne Loginzwang benutzen,
+    vor allem wenn ich diese noch nicht kenne oder nicht empfohlen bekomme!
+
+Wie sehr nutzt du social Logins?
+    
     Geht so, aber ich kenne auch 1-2 Personen die diese sehr gern nutzen
 
-    Würdest du die App auf mehreren Geräten parallel benutzen wollen?
+Würdest du die App auf mehreren Geräten parallel benutzen wollen?
+
     Ja ich benutze ein Handy und einen Desktop, wobei ich sie sehr wahrscheinlich nr am Handy benutze, da Standort ja sehr praktisch und einfach geht.
 
-    Wie störend sind App-Benachrichtigungen
-    Ich möchte eigentluch nicht von meiner Shoppingapp benachrichtigt werden außer es würde sich wirklich lohnen... vielleicht bei Verspätungen oder super super Angeboten?
+Wie störend sind App-Benachrichtigungen
 
-    Welche Anbindung an externe Dienste wären noch sinnvoll?
+    Garnicht x | - | - | - | - Sehr gerne
+Wann fändest du Appbenachrichtungen akzeptabel?
+    
+    Angebote [x]
+    Verspätungen [x]    
+
+Welche Anbindung an externe Dienste wären noch sinnvoll?
+
     Für Studentenbonus vielleicht Unilogin?
 
 Fragen zur Einkaufsliste:
@@ -76,19 +86,32 @@ Fragen zur Einkaufsliste:
     Garnicht - | - | - | - | x Sehr gerne
 
     Wäre die Eingabe der Einkaufsliste durch Sprachassistenten einfacher?
+    Garnicht - | - | - | x | - Sehr gerne
+
     Wäre ein Produktkatalog sinnvoll oder reicht ein Freitextfeld für die Produkte
+    Garnicht - | - | - | - | x Sehr gerne
 
 Fragen zur Öffi-Anbindung:
 
     Wären Benachrichtigungen über Abfahrtszeigen sinnvoll?
+    Garnicht ------------|---------------------------------- Sehr sinnvoll
+
     Würde eine textuelle Beschreibung mit Abfahrtszeit und -ort ausreichen?
+    ja[x] nein[]
+    
     Waren die Informationen in der Karte ausreichend?
+    ja[x] nein[]
+
     Sollten Öffnungszeiten und Kontaktdaten der Supermärkte mit angezeigt werden?
+    ja[x] nein[]
 
 Fragen zur Karte
 
     Findest du die Karte übersichtlich?
+    Garnicht ------------|---------------------------------- Sehr sinnvoll
+
     Würdest du weitere Informationen außer eine Karte und den visualiserte Anreiselinien benötigen?
+    Ich würde mir gerne mehr Informationen zu den ökoloschem Sortient des Supermarkts wünschen, mehr Informationen zu den Ticketpreisen
 
 
 
