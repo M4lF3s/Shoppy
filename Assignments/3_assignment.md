@@ -31,7 +31,7 @@ Fragen zur Karte
 Wir haben ConceptualModel Nutzerinteraktion (Observation) für die Wireframes und Structured für das Feedback.
 Script aus Semi ist unser Wireframe Workflow ->Landinagepage->etc etc
 ------- 
-## Interview 1
+## Interview
 ### Observation
 
 Login:
@@ -61,7 +61,7 @@ Würdest du die App auf mehreren Geräten parallel benutzen wollen?
 
 Wie störend sind App-Benachrichtigungen
 
-    Garnicht x | - | - | - | - Sehr gerne
+    Garnicht x | - | - | - | - Sehr störend
 Wann fändest du Appbenachrichtungen akzeptabel?
     
     Angebote [x]
@@ -77,19 +77,19 @@ Fragen zur Einkaufsliste:
     Ich denke für meinen Einkauf reicht das, ich mache mir ja eh Noitzen auf einem Zettel.
 
     Wie störend / nützlich findest du Autokorrektur / Vorschläge?
-    Garnicht x | - | - | - | - Sehr gerne
+    Garnicht x | - | - | - | - Sehr störend
 
     Gibt es Produkte die automatisch regelmäßig auf die Einkaufsliste gesetzt werden sollen?
     Vielleicht Kosmetikprodukte, täglicher Tagesbedarf?
 
     Sind Mengenangaben in der Einkaufsliste sinnvoll?
-    Garnicht - | - | - | - | x Sehr gerne
+    Eher unsinnvoll - | - | - | - | x Sehr sinnvoll
 
-    Wäre die Eingabe der Einkaufsliste durch Sprachassistenten einfacher?
-    Garnicht - | - | - | x | - Sehr gerne
+    Wie sehr würde die Eingabe per Sprachassistenten die Aufgabe vereinfachen?
+    Eher nicht - | - | - | x | - Schon ziemlich
 
-    Wäre ein Produktkatalog sinnvoll oder reicht ein Freitextfeld für die Produkte
-    Garnicht - | - | - | - | x Sehr gerne
+    Wie sinnvoll wäre es einen Produktkatalog vorzugeben vs. einem Freitextfeld?
+    Garnicht - | - | - | - | x Sehr sinnvoll
 
 Fragen zur Öffi-Anbindung:
 
@@ -108,7 +108,7 @@ Fragen zur Öffi-Anbindung:
 Fragen zur Karte
 
     Findest du die Karte übersichtlich?
-    Garnicht ------------|---------------------------------- Sehr sinnvoll
+    Garnicht ------------|---------------------------------- Sehr übersichtlich
 
     Würdest du weitere Informationen außer eine Karte und den visualiserte Anreiselinien benötigen?
     Ich würde mir gerne mehr Informationen zu den ökoloschem Sortient des Supermarkts wünschen, mehr Informationen zu den Ticketpreisen
