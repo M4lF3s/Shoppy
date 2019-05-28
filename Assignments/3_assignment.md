@@ -115,6 +115,7 @@ Fragen zur Karte
 
 
 
-
-
+Feedback:
+- Zusammenfassung aller Interviews hat noch gefehlt
+- Unklarheiten -> sich auf 1 was (vielleicht 2 Sachen einigen)
 
