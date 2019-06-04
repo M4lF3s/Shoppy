@@ -1,13 +1,17 @@
-
 The practical homework consists of three parts:
 
+Regarding the Interviews and the conclusion we presented last week, we updated the conceptual model accordingly. 
 
+**Conceptual Model Update:**
+
+We develop an WebApp suited to mobile, to support students in their planning by providing incentives and route options regarding their shopping needs for localtransport for their weekly/daily shopping trips. The app will provide users with a navigation/route system like gmaps, a registry for local supermarkts and a decision handling regarding the amount of grocieries.
 
 ## Requirementupdate / cleanup / Focus on Students   
 Aus der Zusammenfassung haben wir folgendes der Anwendung hinzugefügt:
 - Überarbeitung der Mengenangabenkompontente (Studenten interessiert was steht hinter einem Begriff)
 - Integration eines SocialLogins (Wird oft benutzt und gewünscht von Studenten / techaffinen)
         
+
 Aus der Zusammenfassung schließend haben wir folgende Komponenten entfernt:
 
 
