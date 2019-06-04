@@ -14,6 +14,8 @@ Aus der Zusammenfassung haben wir folgendes der Anwendung hinzugefügt:
 
 Aus der Zusammenfassung schließend haben wir folgende Komponenten entfernt:
 
+* 
+
 
 ## 2nd Round Brainstorming on updated UR
 
