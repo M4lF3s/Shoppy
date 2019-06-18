@@ -4,7 +4,7 @@ Jonas Szalanczi 1258437, Marcel Fraas 1324785
 
 ## Projektbeschreibung
 
-Studenten besitzen selten aufgrund des knappen Geldbeutels kein Auto. In mittelgroßen Stödten sind die öffentlichen Verkehrsmittel noch nicht richtig ausgebaut. Mithilfe von "Shoppy" können Nutzer anhand ihrer Bedürfnisse beim Einkauf, den von ihrer aktuellen Position, den durch öffentliche Verkehrsmittel angebunden Supermarkt erreichen. Die mobile Anwendung illustriert auf einer Karte Haltestelle, Supermärkte und Laufwege. 
+Studenten besitzen selten aufgrund des knappen Geldbeutels ein Auto. In mittelgroßen Städten sind die öffentlichen Verkehrsmittel oft (noch) nicht richtig ausgebaut. Mithilfe unserer mobile-App "Shoppy" können Nutzer anhand ihrer Anforderungen an den  Einkauf (Qualität / Quantität der Produkte), den von ihrer aktuellen Position am besten durch öffentliche Verkehrsmittel erreichbaren Supermarkt finden. Die mobile Anwendung illustriert auf einer Karte Haltestellen, Supermärkte und Laufwege. Sie bietet außerdem die Möglichkeit Einkaufszettel zu verfassen und aktuelle Rabattangebote der favorisierten Märkte anzuzeigen.
 
 ## Anzahl der Design Iterationen
 
